@@ -2541,13 +2541,18 @@ img.img_logo {
 @media (max-width: 640px) {
   .app_suiv{
     flex-direction: column;
+    width: 100%;
   }
-  .img.app_ads {
+  img.app_ads {
     width: 100%;
   }
   .ifo {
     width: 100%;
   }
+  ul.ul-app {
+    width: 63%;
+    margin: auto;
+}
 }
 a.btn.btn-success {
   border-color: #9b415e;
@@ -2556,8 +2561,8 @@ a.btn.btn-success {
   width: 100%;
 }
 img.app_ads {
-  width: 50%;
+  width: 100%;
 }
 .ifo {
-  width: 50%;
+  width: 100%;
 }
