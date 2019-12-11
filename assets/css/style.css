@@ -2519,7 +2519,6 @@ ul.ul-app li {
   border-top: 3px solid #240d0d;
   border-radius: 0% 0% 11% 11%;
   margin: 1%;
-  padding: 1%;
   text-align: center;
   color: white;
 }
@@ -2555,8 +2554,8 @@ img.img_logo {
 }
 }
 a.btn.btn-success {
-  border-color: #9b415e;
-  background-color: #9b415e;
+  border-color: #5cb85c;
+  background-color: #5cb85c;
   border-radius: 0 0 10px 10px;
   width: 100%;
 }
